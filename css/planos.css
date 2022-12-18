@@ -86,21 +86,21 @@
 }
 
 .cartao--ultra {
-    color: var(--planos-cartao-ultra);
+    color: var(--planos-cartao-ultra)!important;
 }
 
 .cartao--mega {
-    color: var(--planos-cartao-mega);
+    color: var(--planos-cartao-mega)!important;
 }
 
 .cartao__botao--start {
-    border-color: var(--planos-cartao-start);
+    border-color: var(--planos-cartao-start)!important;
 }
 
 .cartao__botao--ultra {
-    border-color: var(--planos-cartao-ultra);
+    border-color: var(--planos-cartao-ultra)!important;
 }
 
 .cartao__botao--mega {
-    border-color: var(--planos-cartao-mega);
+    border-color: var(--planos-cartao-mega)!important;
 }
